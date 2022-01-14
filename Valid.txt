@@ -1,0 +1,28 @@
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum7dsgg878k --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum4lkse454m --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] fjnijr125dt5y --> Document don't starts with 'docnum' or 'contract'!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract55stbvtrbvgbv57g --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnumsee000 --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum333sergkslm --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract12sergbdthj --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] mvjsrgvdk659 --> Document don't starts with 'docnum' or 'contract'!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract9ersgeb --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum111with55 --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum1sy7r5564g --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract1d5rg5thj --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] revs49esfv5y --> Document don't starts with 'docnum' or 'contract'!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract88dsgeb --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract222erge --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract55svsee5egbv57g --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] ergergb7498e1v6ertg4 --> Document don't starts with 'docnum' or 'contract'!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum10seg5564g --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum11esgrre1 --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] unvtbfdvght85rd94v --> Document don't starts with 'docnum' or 'contract'!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum1trtb67gfb --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contractogv9egv --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum4l0k7se4m --> Valid document!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum3se8r0gkslm --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract8sgegv --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] kekchebureck659 --> Document don't starts with 'docnum' or 'contract'!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] docnum6see --> Wrong document length!
+[C:\Users\mradk\Desktop\Docs.txt, C:\Users\mradk\Desktop\Docss.txt] contract27e0rge --> Valid document!
